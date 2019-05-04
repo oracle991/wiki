@@ -29,3 +29,4 @@ Unityはコマンドラインからも起動できる。このコマンドライ
 ## その他参考URL
 
 * Microsoft Azure DSVMでUnity ML-Agentsを使用した強化学習を行う http://kentablog.cluscore.com/2018/08/microsoft-azure-dsvmunity-ml-agents.html
+* How to run Unity on Amazon Cloud or without Monitor https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639
